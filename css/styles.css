@@ -10,6 +10,21 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'Playfair Display', serif;
 }
 
+.bi {
+	font-size:80px;
+}
+
+.button {
+	display: inline-block;
+	color: #E1EBE3;
+	text-decoration: none;
+	font-family: 'Playfair Display', serif;
+	font-size: 1.5em;
+	background:#2E1C02;
+	margin: 20px;
+	padding: 20px;
+}
+
 nav {
 	color: #2E1C02;
 	background: #E1EBE3;
